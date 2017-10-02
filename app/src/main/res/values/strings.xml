@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Multiquiz</string>
+    <string name="Question">Question</string>
+    <string name="Check">Check</string>
+   <!-- <string name="text_question">What is the capital of Bhutan?</string> -->
+    <string name="correct">Well done!</string>
+    <string name="wrong">Try again</string>
+    <string name="Next">Next</string>
+    <string name="finish">Finish</string>
+
+    <!--  <array name="answers">
+          <item>Ougadougou</item>
+          <item>Pnohm Penh</item>
+          <item>Thimpu</item>
+          <item>sahdf</item>
+      </array>
+  -->
+    <array name="all_questions">
+        <item>What is the capital of Bhutan?;Ougadougou;Pnohm Penh;*Thimpu;Sandhf</item>
+        <item>Pregunta dos?;a;*b;c;d</item>
+    </array>
+    <string name="text_question">What is the capital of Buthan?</string>
+    <string name="Previous">Previous</string>
+    <!-- <integer name="correctanswer">2</integer> -->
+</resources>
